@@ -1,0 +1,59 @@
+body{
+	font-family: "comic sans MS", "Lucida Console", "Lucida Sans Typewriter", sans-serif;
+	color: #00ff00;
+	background-color: black;
+	text-shadow: 40px 40px 20px #FFAE19;
+	font-size: 30px;
+	text-align: center;
+}
+
+a{
+	color: hotpink;
+}
+
+#body1{
+	font-family: "comic Sans MS", cursive, sans-serif;
+}
+
+table{
+	border-color: #ffae19;
+	color: #00ff00;
+}
+
+ul{
+	width: 50%;
+}
+
+ol{
+	color: aqua;
+	width: 75%;
+}
+
+#blue{
+	color: #99ccff;
+}
+
+#orange{
+	color: #ffae19;
+}
+
+#green{
+	color: #00ff00;
+}
+
+#h1{
+	color: #99ccff;
+}
+
+#h3{
+	color: #ffae19;
+}
+
+#h6{
+	color: #00ff00;
+}
+
+#basic{
+	font-size: 20px;
+	color: green;
+}
